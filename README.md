@@ -1,4 +1,4 @@
-# This is Under-construction
+# This is under-construction
 
 # ghosh-ml-labs 🚀
 Applied Data Science Portfolio by **Dr. Bappaditya Ghosh**  
